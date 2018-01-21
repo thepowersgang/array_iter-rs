@@ -1,0 +1,7 @@
+[package]
+name = "array_iter"
+version = "0.1.0"
+authors = ["John Hodge <tpg@mutabah.net>"]
+description = "Provides by-value iterators for arrays up to 32 items in length"
+
+[dependencies]
